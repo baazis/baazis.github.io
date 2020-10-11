@@ -1,0 +1,223 @@
+header {
+    background: url("Group 25.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 85vh;
+    
+}
+@media screen and (max-width: 670px){
+    header{
+        min-height: 60vh;
+    }
+} 
+html {
+    font-family: 'Baloo Paaji A2', cursive, Arial, Helvetica, sans-serif, Times, serif;
+}
+.card {
+    margin: 30px 0 50px 0;
+}
+.card-img{
+    height: 500px;
+}
+#materialize-logo-img {
+    width: 38px;
+}
+#portfolio-avatar-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+} 
+.social-links i{
+    font-size: 65px;
+    margin: 15px 0 0 0;
+} 
+.social-links p {
+    font-size: 25px;
+    margin: 50px 0 0 0;
+}
+.social-links a{
+    transition: height 1s, transform 0.5s;
+}
+.social-links a:hover {
+    transform: translate(0, 30px);
+}
+nav{
+    color:  white;
+    position: fixed;
+    z-index: 4;
+}
+.navbar-fixed{
+    z-index: 1000;
+}
+#profile-slide-out{
+    z-index: 1000;
+}
+.tech-desc {
+    margin: 12px 0 0 0;
+    font-size: 15px;
+    text-align: left;
+}
+#front-end .tech-name {
+    margin: 12px 0 0 0;
+    font-size: 15px;
+}
+#back-end .tech-name {
+    margin: 12px 0 0 0;
+    font-size: 15px;
+}
+#ai .tech-name {
+    margin: 12px 0 0 0;
+    font-size: 15px;
+}
+#iot .tech-name {
+    margin: 12px 0 0 0;
+    font-size: 15px;
+}
+footer {
+    font-size: 18px;
+}
+/*Media Queries*/
+@media only screen and (max-width: 320px) {
+    #portfolio-avatar-img{
+        width: 195px;
+        height: 195px;
+        border-radius: 50%;
+        margin: 0 0 15px 0;
+    }
+    .social-links p {
+        font-size: 11px;
+        margin: 20px 0 0 0;
+    }
+    .social-links i{
+        font-size: 30px;
+        margin: 10px 0 0 0;
+    } 
+    #skills a {
+        font-size: 15px;
+    }
+    #skills h4 {
+        font-size: 18px;
+    }
+    .tech-desc{
+        font-size: 15px;
+        text-align: left;
+    }
+    #ai span {
+        font-size: 15px;
+    }
+    #front-end span {
+        font-size: 15px;
+    }
+    #back-end span {
+        font-size: 15px;
+    }
+    #iot span {
+        font-size: 15px;
+    }
+}
+
+
+@media only screen and (min-width: 360px) {
+    #portfolio-avatar-img{
+        width: 195px;
+        height: 195px;
+        border-radius: 50%;
+        margin: 0 0 15px 0;
+    }
+    .social-links p {
+        font-size: 15px;
+        margin: 45px 0 0 0;
+    }
+    .social-links i{
+        font-size: 40px;
+        margin: 10px 0 0 0;
+    } 
+    #skills a {
+        font-size: 15px;
+    }
+    #skills h4 {
+        font-size: 20px;
+    }
+    .tech-desc{
+        font-size: 15px;
+        text-align: left;
+    }
+    #ai span {
+        font-size: 15px;
+    }
+    #front-end span {
+        font-size: 15px;
+    }
+    #back-end span {
+        font-size: 15px;
+    }
+    #iot span {
+        font-size: 15px;
+    }
+}
+@media only screen and (min-width: 1024px){
+    #portfolio-avatar-img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin: 0 0 15px 0;
+    }
+    .social-links p {
+        font-size: 20px;
+        margin: 40px 0 0 0;
+    }
+    .social-links i{
+        font-size: 60px;
+        margin: 10px 0 0 0;
+    } 
+    #skills a {
+        font-size: 17px;
+    }
+    #skills h4 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 1326px){
+    #portfolio-avatar-img{
+        width: 290px;
+        height: 290px;
+        border-radius: 50%;
+    } 
+    .social-links p {
+        font-size: 25px;
+        margin: 60px 0 0 0;
+    }
+    .social-links i{
+        font-size: 70px;
+        margin: 15px 0 0 0;
+    } 
+    #skills a {
+        font-size: 17px;
+    }
+    #skills h4 {
+        font-size: 35px;
+    }
+    .tech-desc{
+        font-size: 17px;
+        text-align: left;
+    }
+    #ai span {
+        font-size: 17px;
+    }
+    #front-end span {
+        font-size: 17px;
+    }
+    #back-end span {
+        font-size: 17px;
+    }
+    #iot span {
+        font-size: 17px;
+    }
+
+}
+nav{
+
+color:  white;
+}
