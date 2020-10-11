@@ -49,8 +49,13 @@ VIDEO EXPLAINING-  https://www.youtube.com/watch?v=AwhKcpJRKEE
 *TEAM MEMBERS*
 
 Gaurav Singh
+
 Kaustubh Agarwal
+
 Nishita Patnaik
+
 Saurabh Singh
+
 Vaishnav Srinidhi
+
 Utsav Deep
