@@ -43,7 +43,7 @@ FIgma for UI & UX elements and prototyping​
 
 # DEMO OF WEBSITE-  https://www.youtube.com/watch?v=E3-Fo0LSbe8
 
-# VIDEO EXPLAINING-  https://www.youtube.com/watch?v=AwhKcpJRKEE
+# VIDEO EXPLAINING-  https://youtu.be/4o2LXFFVivY
 
 
 
