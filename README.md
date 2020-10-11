@@ -1,9 +1,13 @@
 # baazis.github.io
 
 VIT HACK 2020
+
 TEAM- R 637
+
 TRACK- EDUCATION
+
 *TITLE- WINUALL 637 REVAMP*
+
  *DESCRIPTION-*
  
  Winuall 637 Revamp is the fully functional web-application version of the famous information technology company, WinUAll, that specializes in the fields of E-learning, online quizzes, tests, and study material for competitive exams.​
@@ -32,9 +36,9 @@ FIgma for UI & UX elements and prototyping​
 
 *TEAM MEMBERS*
 
-GAURAV SINGH
-VAISHNAV SRINIDHI
-UTSAV DEEP
-NISHITA PAL
-KAUSTUBH AGGRAWAL
-SAURABH SINGH
+Gaurav Singh
+Kaustubh Agarwal
+Nishita Patnaik
+Saurabh Singh
+Vaishnav Srinidhi
+Utsav Deep
