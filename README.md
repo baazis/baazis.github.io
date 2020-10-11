@@ -36,7 +36,7 @@ FIgma for UI & UX elements and prototyping​
 
 
 # FIGMA PROTOTYPE-
-# YOUTUBE LINK- https://www.figma.com/file/lKaFgcvivgrD0rZbKcuB4A/Winuall?node-id=0%3A1
+# PROTOTYPE LINK- https://www.figma.com/file/lKaFgcvivgrD0rZbKcuB4A/Winuall?node-id=0%3A1
 
 # VIDE0 EXPLAINATION- https://www.youtube.com/watch?v=JckDJqSeJ4c
 
