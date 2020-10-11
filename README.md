@@ -1,14 +1,15 @@
-# baazis.github.io
+# VIT HACK 2020 VIT VELLORE
+# TEAM R 637
 
 VIT HACK 2020
 
 TEAM- R 637
 
-TRACK- EDUCATION
+# TRACK- EDUCATION
 
-*TITLE- WINUALL 637 REVAMP*
+# *TITLE- WINUALL 637 REVAMP*
 
- *DESCRIPTION-*
+ # *DESCRIPTION-*
  
  Winuall 637 Revamp is the fully functional web-application version of the famous information technology company, WinUAll, that specializes in the fields of E-learning, online quizzes, tests, and study material for competitive exams.​
 
@@ -34,19 +35,20 @@ Python Libraries and Django for backend​
 FIgma for UI & UX elements and prototyping​
 
 
-FIGMA PROTOTYPE-
+# FIGMA PROTOTYPE-
 YOUTUBE LINK- https://www.figma.com/file/lKaFgcvivgrD0rZbKcuB4A/Winuall?node-id=0%3A1
 
 VIDE0 EXPLAINATION- https://www.youtube.com/watch?v=JckDJqSeJ4c
 
 
-DEMO OF WEBSITE-  https://www.youtube.com/watch?v=E3-Fo0LSbe8
+# DEMO OF WEBSITE-  https://www.youtube.com/watch?v=E3-Fo0LSbe8
 
-VIDEO EXPLAINING-  https://www.youtube.com/watch?v=AwhKcpJRKEE
+# VIDEO EXPLAINING-  https://www.youtube.com/watch?v=AwhKcpJRKEE
 
 
 
-*TEAM MEMBERS*
+
+# *TEAM MEMBERS*
 
 Gaurav Singh
 
